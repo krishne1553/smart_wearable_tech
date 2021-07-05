@@ -12,7 +12,7 @@ Rules:
 - All lowercase
 - Two digits for (lab number) and (index in the lab)
 
-For example:
+For example saying 'alpha' twice
   - Alpha: a_00_00_am.csv
   - Alpha: a_00_01_am.csv
 
