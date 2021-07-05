@@ -12,11 +12,12 @@ Rules:
 - All lowercase
 - Two digits for (lab number) and (index in the lab)
 
-- Alpha: al_00_00_am.csv
-- Alpha: al_00_01_am.csv
-- Apple:  ap_00_00_am.csv
-- Apple: ap_00_01_am.csv
-- Apple: ap_00_02_am.csv
+For example:
+  - Alpha: al_00_00_am.csv
+  - Alpha: al_00_01_am.csv
+  - Apple:  ap_00_00_am.csv
+  - Apple: ap_00_01_am.csv
+  - Apple: ap_00_02_am.csv
 
 - Instead of having data sorted by Labs, it will be better to sort by words. E.g. 'Alpha', 'Bravo' etc.
 - Naming convention for files should be changed to include:
