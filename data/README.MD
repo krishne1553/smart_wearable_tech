@@ -6,7 +6,7 @@ This section describes how the team has organised our data and where to retrieve
 
 Naming convention:
 
-- (first two letters action/word)_(lab number)_(index in the lab)_(participant initials).csv
+- (first two letters action/word)\_(lab number)\_(index in the lab)\_(participant initials).csv
 
 Rules:
 - All lowercase
